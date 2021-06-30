@@ -2,10 +2,6 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/FOu6L9mUTeWfhtQJRCbz4g/badge)](https://hackmd.io/FOu6L9mUTeWfhtQJRCbz4g)
 
-
-Link to hackpad for notes on this document: https://hackmd.io/@SORTEE-Github-Hackathon/HkJrsXK2_/edit
-
-
 ---
 
 18:30-23:00 UTC (4.5 hours) / 11:30am PT - 4:00pm PT
