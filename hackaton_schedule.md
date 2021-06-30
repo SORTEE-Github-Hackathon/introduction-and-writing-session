@@ -1,5 +1,8 @@
 # Schedule for the Hackathon
 
+[![hackmd-github-sync-badge](https://hackmd.io/FOu6L9mUTeWfhtQJRCbz4g/badge)](https://hackmd.io/FOu6L9mUTeWfhtQJRCbz4g)
+
+
 Link to hackpad for notes on this document: https://hackmd.io/@SORTEE-Github-Hackathon/HkJrsXK2_/edit
 
 
