@@ -1,5 +1,8 @@
 # Writing Session notes
 
+[![hackmd-github-sync-badge](https://hackmd.io/gz7dYhjUQZy0EV8xrJHalg/badge)](https://hackmd.io/gz7dYhjUQZy0EV8xrJHalg)
+
+
 ## The goal of write-up (blog post and then manuscript)
 - We want to create a 'guide'
 - Here's what you can do with github, take them or leave them. (And the drawbacks too!)
@@ -11,7 +14,8 @@
 
 **Blog ideas**
 - Methods in EcoEvo has a blog: https://methodsblog.com/
-- 
+
+
 **Journal ideas**
 - _Journal of Statistics and Data Science Education_ Reproducibility Special issue: https://nhorton.people.amherst.edu/call_reproducibility.pdf 
 From their call for papers: Topics in the special issue that align with our proposal: Incorporating source code (version) control systems, Developing and implementing documentation and code standards, Supporting collaboration
