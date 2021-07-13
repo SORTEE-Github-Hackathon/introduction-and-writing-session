@@ -62,6 +62,9 @@ Step 4: Return of participants and organizers to the main workshop room
 3) Blog post brainstorming
 
 ### Notes
+
+*How do we plan to use github going forward?* Check out our padlet responses [here](https://padlet.com/rcrystalornelas/zb9pgsbk8krxjdvb)!
+
 Working with EcoEvo people it is apparent that the use of GitHub is predicated by the use of R and other programming languages. Instead of using 3rd party data management. A lot of emphasis in R based tools, but highlight all the things that you can do on GitHub that have nothing to do with R.
 
 There is reluctancy from students and PIs or collaborators in using GitHub. Reasons:
