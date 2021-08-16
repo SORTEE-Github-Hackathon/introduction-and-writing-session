@@ -35,6 +35,8 @@ Flow chart that can guide us in what we need to learn to get the most out of git
 4 different people that might want to use GitHub: first time learner, PI, individual researcher who is going to do this all, person who wants to advance their workflow using github (i.e. learn a bunch of new things!)
 Make a table/figure: Here are the alternative tools for collab / version control, Check marks for what github does vs. google docs vs. zenodo vs. edit-save-attach
 
+^This reminds me of the RStudio "learner personas" which might serve as a model: https://rstudio-education.github.io/learner-personas/
+
 
 ## A few of pain points to using GitHub
 ### 1. The GitHub learning curve (technical skills)
@@ -74,3 +76,5 @@ _Is reluctance to use git related to how entrenched you are in what you do (e.g.
 
 Other resources:
 https://bioceed.uib.no/dropfolder/sites/bioSTATS-and-R/DataManagement/GitTutorial.html
+
+In our slack channel, Eric mentioned a new use case to include in manuscript: using github issues to organize and respond to reviewer comments on a manuscript. See example [here](https://github.com/BrunaLab/HeliconiaDemography/issues?q=is%3Aissue+is%3Aopen+label%3A%22reviewer+comment%22)
